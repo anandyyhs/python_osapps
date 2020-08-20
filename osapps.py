@@ -22,5 +22,5 @@ while True:
 	    break
 
 	else:
-	  print("dont support")
+	  print("This do not support")
 
